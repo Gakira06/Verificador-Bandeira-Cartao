@@ -4,12 +4,6 @@ Bem-vindo ao **Validador de Bandeira de Cartão**! Este projeto permite que voc�
 
 ---
 
-## 🖼️ Prévia do Projeto
-
-<img src="./src/assets/icon.png" alt="Ícone do Projeto" width="100" />
-
----
-
 ## 📋 Funcionalidades
 
 - **Validação de Cartões**: Verifica se o número do cartão é válido.
